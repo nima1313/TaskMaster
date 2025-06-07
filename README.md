@@ -37,7 +37,7 @@ Follow these steps to get TaskMaster running on your local machine.
 First, clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/taskmaster.git
+git clone https://github.com/nima1313/taskmaster.git
 cd taskmaster
 ```
 
